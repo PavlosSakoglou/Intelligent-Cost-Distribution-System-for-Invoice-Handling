@@ -5,7 +5,7 @@ This project refers to a Cost Distribution API and the system design chosen for 
 
 # System Design
 
-![System Design](System Design/uml.png)
+![System Design](/System Design/uml.png)
 
 # Usage
 
