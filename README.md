@@ -14,6 +14,7 @@ All components are written using the standard Python libraries, with one excepti
 The PyPDF2 framework is an open source technology. You can find instructions to install it and documentation here:
 https://pythonhosted.org/PyPDF2/
 
+
 For Anaconda you can install it by running the following: 
 
 conda install -c conda-forge pypdf2 
