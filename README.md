@@ -20,4 +20,3 @@ For Anaconda you can install it by running the following:
 conda install -c conda-forge pypdf2 
 
 (https://anaconda.org/conda-forge/pypdf2)
- 
